@@ -1,5 +1,6 @@
 
 [![Build Status](https://dev.azure.com/srep/javaapp/_apis/build/status/jeevithapsree.pipelines-java)](https://dev.azure.com/srep/javaapp/_build/latest?definitionId=5)
+[![Build Status](https://dev.azure.com/srep/javaapp/_apis/build/status/jeevithapsree.pipelines-java)](https://dev.azure.com/srep/javaapp/_build/latest?definitionId=5)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
